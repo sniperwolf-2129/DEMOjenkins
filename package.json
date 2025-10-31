@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js",
+    "test": "echo \"no test step\"",
     "build": "echo \"no build step\"",
     "lint": "node -e \"console.log('no linter configured')\""
   },
